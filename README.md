@@ -1,4 +1,6 @@
 ### Hi there 👋
+- I'm a self-taught JS - React Developer.
+- 🌱 I’m currently learning React-Native
 
 <!--
 **murtazaaylak/murtazaaylak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
