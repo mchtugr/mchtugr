@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mucahit</h1>
-<h3 align="center">A passionate frontend developer who loves JavaScript</h3>
+<h3 align="center">A passionate fullstack developer who loves JavaScript</h3>
 
 - 🌱 I’m currently learning **VueJS, React-Native**
 
